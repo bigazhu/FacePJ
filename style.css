@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+ 
+/* face */
+#face {
+  width: 490px;
+  height: 600px;
+  background-color: yellow;
+  padding: 35px;
+}
+ 
+/* eyes */
+.eye {
+  display: inline-block;
+  width: 180px;
+  height: 180px;
+  background-color: white;
+  padding: 36px;
+  margin-right: 10px;
+}
+ 
+/* dot */
+.pupil {
+  width: 72px;
+  height: 72px;
+  background-color: black;
+}
+ 
+/* Mouth*/
+#mouth {
+  width: 396px;
+  height: 287px;
+  background-color: black;
+  margin-top: 30px;
+  padding: 35px 19px 0px 19px;
+}
+ 
+/* teeth 7 */
+.tooth {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  background-color: white;
+  margin-right: 10px;
+}
+ 
+/* The tongue*/
+#tongue {
+  width: 180px;
+  height: 126px;
+  background-color: rgb(230, 109, 109);
+  margin: 80px auto 0px auto;
+}
+ 
+/* The tongue line */
+#tongue-line {
+  width: 12px;
+  height: 100px;
+  background-color: black;
+  margin: 0px auto;
+}
+ 
